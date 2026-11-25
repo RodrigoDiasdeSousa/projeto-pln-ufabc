@@ -1,0 +1,11 @@
+# Dependencias diretas do notebook e ambiente Jupyter local.
+# Mantida a faixa do LangChain Google GenAI usada no notebook original.
+# Nao e um lockfile: as demais versoes serao resolvidas pelo pip.
+requests
+pandas
+langchain-google-genai>=4,<5
+langchain-core
+sentence-transformers
+jupyterlab
+ipykernel
+ipywidgets
