@@ -6,6 +6,7 @@ Projeto prático da disciplina de **Processamento de Linguagem Natural (PLN) —
 
 - **Integrante 01:** Rodrigo Dias de Sousa — RA 11202231964
 - **Integrante 02:** Henrique Pineda Pietrobon Redini Martins — RA 11202230887
+- **Integrante 03:** Renan Dos Santos Bento — RA 11201921670
 
 ## Visão geral
 
